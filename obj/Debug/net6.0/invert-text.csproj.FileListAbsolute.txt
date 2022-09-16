@@ -1,0 +1,15 @@
+/var/www/c#/invert-text/bin/Debug/net6.0/invert-text
+/var/www/c#/invert-text/bin/Debug/net6.0/invert-text.deps.json
+/var/www/c#/invert-text/bin/Debug/net6.0/invert-text.runtimeconfig.json
+/var/www/c#/invert-text/bin/Debug/net6.0/invert-text.dll
+/var/www/c#/invert-text/bin/Debug/net6.0/invert-text.pdb
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.csproj.AssemblyReference.cache
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.AssemblyInfoInputs.cache
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.AssemblyInfo.cs
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.csproj.CoreCompileInputs.cache
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.dll
+/var/www/c#/invert-text/obj/Debug/net6.0/refint/invert-text.dll
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.pdb
+/var/www/c#/invert-text/obj/Debug/net6.0/invert-text.genruntimeconfig.cache
+/var/www/c#/invert-text/obj/Debug/net6.0/ref/invert-text.dll
