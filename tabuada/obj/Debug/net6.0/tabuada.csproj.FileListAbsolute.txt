@@ -1,0 +1,15 @@
+/var/www/c#/tabuada/bin/Debug/net6.0/tabuada
+/var/www/c#/tabuada/bin/Debug/net6.0/tabuada.deps.json
+/var/www/c#/tabuada/bin/Debug/net6.0/tabuada.runtimeconfig.json
+/var/www/c#/tabuada/bin/Debug/net6.0/tabuada.dll
+/var/www/c#/tabuada/bin/Debug/net6.0/tabuada.pdb
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.csproj.AssemblyReference.cache
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.AssemblyInfoInputs.cache
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.AssemblyInfo.cs
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.csproj.CoreCompileInputs.cache
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.dll
+/var/www/c#/tabuada/obj/Debug/net6.0/refint/tabuada.dll
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.pdb
+/var/www/c#/tabuada/obj/Debug/net6.0/tabuada.genruntimeconfig.cache
+/var/www/c#/tabuada/obj/Debug/net6.0/ref/tabuada.dll
